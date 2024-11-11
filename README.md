@@ -12,3 +12,10 @@
 ---
 
 [Building a Microservice with Rust](https://medium.com/@diego_pacheco/building-a-microservice-with-rust-957420f196fc)
+[Building a microservice with Rust](https://medium.com/tenable-techblog/building-a-microservice-with-rust-23a4de6e5e14)
+[Building microservices in Rust with Spin](https://blog.logrocket.com/build-microservices-rust-spin/)
+[Building a production-ready REST microservice in Rust](https://apatisandor.hu/blog/production-ready-microservice-rust/)
+[Building a Microservice Architecture using Rust](https://reintech.io/blog/building-microservice-architecture-using-rust)
+[Using Rust for Microservices](https://medium.com/@wiederinchristoph/using-rust-for-microservices-f17a823e80a3)
+[In search of ideal Rust microservice template](https://softwaremill.com/in-search-of-ideal-rust-microservice-template/)
+[Template for a microservice based on Domain Driven Design principles with Rust](https://github.com/nkz-soft/rust-microservice-template)
