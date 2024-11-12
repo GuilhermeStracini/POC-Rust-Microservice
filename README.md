@@ -9,6 +9,21 @@
 [![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/POC-rust-Microservice)](https://github.com/GuilhermeStracini/POC-rust-Microservice)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/POC-rust-Microservice)](https://github.com/GuilhermeStracini/POC-rust-Microservice)
 
+
+## Deployment to Vercel
+
+This project is configured to be deployed as a serverless function on Vercel.
+
+### Steps to Deploy
+
+1. **Connect to Vercel:**
+   - Link this repository to a Vercel project for continuous deployment.
+
+2. **Environment Variables:**
+   - Configure any necessary environment variables in the Vercel dashboard.
+
+3. **Test the Deployment:**
+   - Use tools like `curl` or Postman to verify the endpoints.
 ---
 
 ## Useful links
