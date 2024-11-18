@@ -9,6 +9,26 @@
 [![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/POC-rust-Microservice)](https://github.com/GuilhermeStracini/POC-rust-Microservice)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/POC-rust-Microservice)](https://github.com/GuilhermeStracini/POC-rust-Microservice)
 
+
+# POC Rust Microservice Deployment to Vercel
+
+This document provides instructions for deploying the POC Rust Microservice to Vercel as a serverless function.
+
+## Deployment Steps
+
+1. **Prepare the Project for Deployment**
+   - Ensure the microservice adheres to Vercel's serverless function specifications.
+   - Add `vercel.json` to configure the Rust function handler.
+
+2. **Set Up the Vercel Environment**
+   - Link the Git repository to a new Vercel project.
+   - Configure necessary environment variables in Vercel.
+
+3. **Integrate Rust with Vercel**
+   - Use Vercel's Rust Template as the foundation.
+   - Follow the integration guide for compatibility.
+
+4. **Test the Deployment**
 ---
 
 ## Useful links
